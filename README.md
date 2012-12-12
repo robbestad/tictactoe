@@ -1,6 +1,7 @@
 Tic-Tac-Toe
 -------------
 <img src="http://www.svenardo.com/images/tictactoe.png">
+
 Here's an idea: why not make a cool game of Tic-Tac-Toe? Done.
 This was mostly written over the course of a few hours
 during my daily commute to work. I'm pretty happy with the result. 
