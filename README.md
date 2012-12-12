@@ -10,8 +10,6 @@ License
 -------------
 The code is released under non-commercial BSD (http://opensource.org/licenses/BSD-3-Clause), which means you're free to fork it, develop and release new versions for non-commercial use. I reserve the commercial use of this game, which means that if any commercial entity wants to put up this game on their portal, they must acquire a commercial license from me. 
 
-Notice: This game includes jQuery MsgBox. If you want to use this you need a license from Eduardo Daniel Sada (http://codecanyon.net/item/jquery-msgbox/92626?ref=aeroalquimia)
-
 Fork or play
 -------------
 I welcome forks, and would be delighted to hear from anyone who decide to create a new version of the game.
